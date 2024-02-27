@@ -1,4 +1,4 @@
-#Calculadora Numeros Complejos QT C++
+Calculadora Numeros Complejos QT C++
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Calculadora de numeros complejos con interfaz gráfica utilizando framework QT.
