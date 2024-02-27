@@ -12,6 +12,7 @@ Entre las operaciones que puede realizar:
 Versiones del software utilizado
 QT 6.6.1
 C++ 17
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Proyecto presentado para postulación a ayudante auxiliar Programación.
 
