@@ -1,2 +1,17 @@
-# CalculadoraNumerosComplejosQTC++
-Calculadora con interfaz gráfica utilizando Framework orientado a objetos QT. Entre las operaciones que puede realizar : (Suma,resta,division,multiplicacion,angulos,modulos y forma polar)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Calculadora de numeros complejos con interfaz gráfica utilizando framework QT.
+Entre las operaciones que puede realizar:
+
+-Suma
+-Resta
+-Multiplicacion
+-Division
+-Obtencion de angulos
+-Forma polar
+
+Versiones del software utilizado
+QT 6.6.1
+C++ 17
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Proyecto presentado para postulación a ayudante auxiliar Programación.
+
